@@ -7,6 +7,11 @@
     box-sizing: border-box;
     text-decoration: none;
 }
+
+a {
+    color: #ffffff;
+}
+
 html{
     scroll-behavior: smooth;
 }
@@ -166,7 +171,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("./assets/images/20211214_094400.jpg") no-repeat center;
+    background: url("./assets/images/pat1.jpg") no-repeat center;
     height: 100vh;
     color: #222;
     min-height: 500px;
